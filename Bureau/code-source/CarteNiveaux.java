@@ -14,9 +14,7 @@ import java.util.logging.Logger;
  * <b>CarteNiveaux est une classe qui permet l'affichage de la liste des niveaux
  * présents dans le jeu.</b>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class CarteNiveaux extends JFrame implements ActionListener {
 
