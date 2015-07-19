@@ -18,9 +18,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
  * invitant l'utilisateur à réessayer de s'inscrire.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class Inscription extends JDialog implements ActionListener {
 
