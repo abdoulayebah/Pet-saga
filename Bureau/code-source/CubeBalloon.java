@@ -9,9 +9,7 @@ import java.awt.Color;
  * la même couleur que lui se trouvant dans la grille.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class CubeBalloon extends Cube {
 
