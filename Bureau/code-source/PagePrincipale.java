@@ -20,9 +20,7 @@ import java.util.logging.Logger;
  * <li>Inscription : permet de s'inscrire au jeu.</li>
  * </ul>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class PagePrincipale extends JFrame implements ActionListener {
 
