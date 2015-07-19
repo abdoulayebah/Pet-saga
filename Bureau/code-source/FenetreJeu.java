@@ -12,9 +12,7 @@ import java.util.logging.Logger;
  * <b>FenetreJeu est une classe qui représente la fenêtre dans laquelle vont se
  * placer tous les composants du jeu.</b>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class FenetreJeu extends JFrame implements ActionListener, MouseInputListener {
 
