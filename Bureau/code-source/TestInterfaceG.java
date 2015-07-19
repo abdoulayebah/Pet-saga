@@ -6,8 +6,6 @@ import javax.swing.JOptionPane;
  * <b>Test est une classe qui permet d'afficher l'interface graphique du
  * jeu.</b>
  *
- * @author tghaou28
- * @author sgasan32
  * @author abdbah39
  */
 public class TestInterfaceG {
