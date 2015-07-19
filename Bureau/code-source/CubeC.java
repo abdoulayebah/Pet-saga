@@ -9,9 +9,7 @@ import java.awt.Color;
  * même couleur que lui.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class CubeC extends Cube {
 
