@@ -8,9 +8,7 @@
  * l'élimine pas.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class CubeBomb extends Cube {
 
