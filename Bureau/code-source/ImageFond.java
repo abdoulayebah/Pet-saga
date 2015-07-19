@@ -11,9 +11,7 @@ import javax.swing.JPanel;
  * <b>ImageFond est une classe qui met une image de fond pour la fenêtre de
  * jeu</b>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class ImageFond extends JPanel {
 
