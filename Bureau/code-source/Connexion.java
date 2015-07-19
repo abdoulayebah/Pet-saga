@@ -17,9 +17,7 @@ import static javax.swing.JFrame.EXIT_ON_CLOSE;
  * réessaie de se connecter avec un autre identifiant et mot de passe.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class Connexion extends JDialog implements ActionListener {
 
