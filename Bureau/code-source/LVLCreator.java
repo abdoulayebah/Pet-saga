@@ -12,9 +12,7 @@ import java.util.HashMap;
  * <b>LVLCreator est une classe qui permet la création et le stockage des
  * niveaux du jeu.</b>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class LVLCreator {
 
