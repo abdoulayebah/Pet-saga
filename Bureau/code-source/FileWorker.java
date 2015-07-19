@@ -11,9 +11,7 @@ import java.util.HashMap;
  * <b>FileWorker est une classe qui permet le stockage et la récupération des
  * iformations sur l'utilisateur ainsi que les niveaux du jeu</b>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class FileWorker {
 
