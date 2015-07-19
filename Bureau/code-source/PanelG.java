@@ -7,9 +7,7 @@ import javax.swing.*;
  * Jpanel représentant les cubes colorés dans la grille en lui allouant des
  * coordonnés x et y.</b>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class PanelG extends JPanel {
 
