@@ -8,9 +8,7 @@
  * être plus stratégique pour gagner.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class CubeO extends Cube {
 
