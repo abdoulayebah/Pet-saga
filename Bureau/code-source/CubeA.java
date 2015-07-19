@@ -9,9 +9,7 @@
  * niveau suivant dans le jeu.
  * </p>
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class CubeA extends Cube {
 
