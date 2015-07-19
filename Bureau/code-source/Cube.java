@@ -16,9 +16,7 @@ import java.io.Serializable;
  * </ul>
  * 
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class Cube implements Serializable {
 
