@@ -25,9 +25,7 @@ import java.util.Scanner;
  * un nombre de points fixés.
  *
  *
- * @author tghaou28
  * @author abdbah39
- * @author sgasan32
  */
 public class Niveau implements Serializable {
 
