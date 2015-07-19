@@ -12,8 +12,6 @@ import java.util.Stack;
  * niveaux dans le dique dur ainsi que la récupération des utilisateurs inscrits
  * au jeu.</p>
  *
- * @author tghaou28
- * @author sgasan32
  * @author abdbah39
  */
 public class Jeu {
