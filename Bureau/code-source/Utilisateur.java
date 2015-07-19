@@ -17,8 +17,6 @@ import java.util.HashMap;
  * </ul>
  * 
  *
- * @author tghaou28
- * @author sgasan32
  * @author abdbah39
  */
 public class Utilisateur implements Serializable {
